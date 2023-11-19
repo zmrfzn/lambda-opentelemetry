@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#521B23",
+        "titleBar.activeBackground": "#732531",
+        "titleBar.activeForeground": "#FEFBFB"
+    },
+    "cSpell.words": [
+        "OPENTELEMETRY"
+    ]
+}
